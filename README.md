@@ -302,7 +302,7 @@ Being able to work with your Python environment is a key foundation to accessing
 
 ## Task 11. Check the Boxes
 
-Next, edit this Markdown file to record how things went.
+:triangular_flag_on_post: Edit this Markdown file to record how things went.
 
 1. In the checklist below, mark the tasks completed that you were able to complete successfully. 
 1. If any could not be completed, leave them as they are.  
