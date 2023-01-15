@@ -1,3 +1,6 @@
+# Amanda Hanway - Streaming Data, Module 1
+
+
 # streaming-01-getting-started
 
 > An opinionated way to get started with Python for streaming analytics
